@@ -1,1 +1,1 @@
-print("Try programiz.pro")
+print("Hello World!")
